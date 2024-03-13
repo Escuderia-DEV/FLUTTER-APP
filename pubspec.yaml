@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
+  window_manager: ^0.3.8
 
 dev_dependencies:
   flutter_test:
