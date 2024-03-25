@@ -19,7 +19,7 @@ class _StateLandingMobile extends State<LandingMobile> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Landing Desktop',
+              'Landing Mobile',
             ),
           ],
         ),
